@@ -26,7 +26,7 @@ class Program
         Resume myResume = new Resume();
 
         // Set the person's name
-        myResume._name = "Allison Rose";
+        myResume._name = "Duru Rowland";
 
         // Add the jobs to the resume
         myResume._jobs.Add(job1);
