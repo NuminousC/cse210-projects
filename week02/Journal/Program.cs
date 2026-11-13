@@ -1,4 +1,9 @@
 
+        // Creativity beyond the core requirements:
+        // Each journal entry records the user's mood as well as the date,
+        // prompt, and written response. The mood summary option helps users
+        // reflect on their feelings over time.
+
 using System;
 
 class Program
